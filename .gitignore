@@ -1,0 +1,41 @@
+# === JAVA ===
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg-info/
+.env
+.env.*
+
+# === C++ ===
+*.o
+*.out
+*.exe
+*.obj
+*.gch
+*.log
+
+# === VS CODE ===
+.vscode/
+
+# === Competitive Programming Tools ===
+.cph/
+
+# === SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+
+# === BACKUP FILES ===
+*~
+*.swp
+*.swo
+*.bak
