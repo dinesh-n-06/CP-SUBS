@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile and run Java with input/output",
+      "type": "shell",
+      "command": "javac \"C:\\Users\\N DINESH\\Desktop\\D\\JAVA\\Demo.java\" && java Demo < input.txt > output.txt",
+      "options": {
+        "shell": {
+          "executable": "cmd.exe",
+          "args": ["/c"]
+        }
+      },
+      "problemMatcher": []
+    }
+  ]
+}
