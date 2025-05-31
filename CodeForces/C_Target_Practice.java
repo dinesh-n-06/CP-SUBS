@@ -35,8 +35,7 @@ public class C_Target_Practice {
                 }
             }
         }
-          System.out.println(ans);;  
-        
+          System.out.println(ans); 
     }
 }
 }
