@@ -1,4 +1,3 @@
-import java.lang.*;
 import java.util.*;
 
 public class C_Target_Practice {
