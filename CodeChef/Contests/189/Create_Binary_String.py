@@ -7,4 +7,3 @@ for _ in range(int(input())):
         val2 = (a*i)+(b*o)+(d*o*i)
         ans= max(val1,ans,val2)
     print(ans)
-    

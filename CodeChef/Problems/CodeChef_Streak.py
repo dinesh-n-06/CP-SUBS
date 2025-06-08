@@ -14,11 +14,11 @@ while t > 0:
             az+=1
         me = max(me,az)
     for j in b:
-        if i ==0:
+        if j ==0:
             bz = 0
         else:
             bz += 1
         mo = max(mo,bz)
-    if (mo<me): print("Addy")
-    elif (mo>me): print("Om")
+    if (mo>me): print("Addy")
+    elif (mo<me): print("Om")
     else: print("Draw")
