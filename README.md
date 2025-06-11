@@ -1,4 +1,4 @@
-# CF-SUBS 🚀
+# CP-SUBS 🚀
 
 A curated collection of my accepted and attempted solutions for competitive programming problems from platforms like **Codeforces**, **CodeChef**, **AtCoder** and **CSES**.
 
