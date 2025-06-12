@@ -18,7 +18,7 @@ This repository is structured to track my progress, analyze patterns in problem-
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, Java
+- **Languages:** Python, Java, C++
 - **Editor:** Visual Studio Code
 - **Plugins:** Competitive Programming Helper (CPH), Competitive Companion
 
@@ -38,8 +38,8 @@ Over 50+ problems solved, across multiple platforms. Currently focusing on:
 
 To explore or run any problem:
 1. Navigate to the relevant folder.
-2. Open a `.py` or `.java` file.
-3. Run using any Python/Java environment, or use CPH for test case input.
+2. Open a `.py` or `.java` or `.cpp` file.
+3. Run using any Python/Java/C++ environment, or use CPH for test case input.
 
 ---
 
@@ -67,7 +67,7 @@ This is a personal learning repo. However, suggestions, feedback, or challenge r
 ## 🧠 Author
 
 **N Dinesh**  
-Competitive Programmer | AIML Undergrad  
+Competitive Programmer
 📍 Passionate about solving problems and becoming better, one line of code at a time.
 
 ---
