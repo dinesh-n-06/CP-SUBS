@@ -1,6 +1,6 @@
 # CP-SUBS 🚀
 
-A curated collection of my accepted and attempted solutions for competitive programming problems from platforms like **Codeforces**, **CodeChef**, **AtCoder** and **CSES**.
+A curated collection of my accepted and attempted solutions for competitive programming problems from platforms like **Codeforces**, **CodeChef**, **AtCoder**, and **CSES**.
 
 This repository is structured to track my progress, analyze patterns in problem-solving, and serve as a quick reference for future practice.
 
@@ -10,9 +10,9 @@ This repository is structured to track my progress, analyze patterns in problem-
 
 - ✅ Organized by platform and problem
 - 🧠 Focused on improving speed and accuracy
-- ⚡ Includes both Python and Java submissions
+- ⚡ Includes Python, Java, and C++ submissions
 - 🧩 Solves problems ranging from **easy** to **hard**
-- 🛠️ Uses [Competitive Companion](https://github.com/jmerle/competitive-companion) with the **CPH extension** in VS Code Editor for problem parsing
+- 🛠️ Uses [**CPH extension**](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) in VS Code Editor for problem parsing
 
 ---
 
@@ -38,7 +38,7 @@ Over 50+ problems solved, across multiple platforms. Currently focusing on:
 
 To explore or run any problem:
 1. Navigate to the relevant folder.
-2. Open a `.py` or `.java` or `.cpp` file.
+2. Open a `.py`, `.java`, or `.cpp` file.
 3. Run using any Python/Java/C++ environment, or use CPH for test case input.
 
 ---
@@ -67,8 +67,7 @@ This is a personal learning repo. However, suggestions, feedback, or challenge r
 ## 🧠 Author
 
 **N Dinesh**  
-Competitive Programmer
+Competitive Programmer  
 📍 Passionate about solving problems and becoming better, one line of code at a time.
 
 ---
-
