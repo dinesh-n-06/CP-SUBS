@@ -8,7 +8,10 @@ int main() {
     while (t-- != 0) {
         int n,x;
         cin >> n >> x;
-        cout<<((n%2==0 || n%2==x%2)?"YES":"NO")<<endl;
+        cout<<((x%2==0 && n%2 == 1)?"NO":"YES")<<endl;
+        
+        
     }
+
     return 0;
 }
