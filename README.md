@@ -10,7 +10,7 @@ This repository is structured to track my progress, analyze patterns in problem-
 
 - ✅ Organized by platform and problem
 - 🧠 Focused on improving speed and accuracy
-- ⚡ Includes Python, Java, and C++ submissions
+- ⚡ Includes Python, Java submissions
 - 🧩 Solves problems ranging from **easy** to **hard**
 - 🛠️ Uses [**CPH extension**](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) in VS Code Editor for problem parsing
 
@@ -18,7 +18,7 @@ This repository is structured to track my progress, analyze patterns in problem-
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, Java, C++
+- **Languages:** Python, Java
 - **Editor:** Visual Studio Code
 - **Plugins:** Competitive Programming Helper (CPH), Competitive Companion
 
@@ -38,8 +38,8 @@ Over 50+ problems solved, across multiple platforms. Currently focusing on:
 
 To explore or run any problem:
 1. Navigate to the relevant folder.
-2. Open a `.py`, `.java`, or `.cpp` file.
-3. Run using any Python/Java/C++ environment, or use CPH for test case input.
+2. Open a `.py`, `.java` files.
+3. Run using any Python/Java environment, or use CPH for test case input.
 
 ---
 
