@@ -6,6 +6,7 @@ public class Even_tual_Reduction {
         Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
 		while(t--!=0){
+                    @SuppressWarnings("unused")
 		    int n = sc.nextInt();
 		    sc.nextLine();
 		    String s = sc.nextLine();
